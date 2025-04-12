@@ -14,7 +14,7 @@ class MainUI(QMainWindow,):
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
         # loadUi(os.path.join(sys._MEIPASS, 'mainWindow.ui')) # Pyinstaller tmp path
-        uic.loadUi('mainWindow_bak.ui', self)
+        uic.loadUi('mainWindow.ui', self)
         # Qt::AlignHCenter -> Replace in the ui file
          
         self.path_button.clicked.connect(self.browse_path)

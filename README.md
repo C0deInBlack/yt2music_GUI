@@ -18,3 +18,5 @@ sudo docker pull c0deinblack/yt-dlp-at:v2.2
 ## Usage
 
 The functionality is the same as [![yt2music](https://github.com/C0deInBlack/yt2music)](https://github.com/C0deInBlack/yt2music). You can read the full documentation there.
+
+![gui](https://github.com/C0deInBlack/yt2music_GUI/blob/main/images/gui.cleaned.png)

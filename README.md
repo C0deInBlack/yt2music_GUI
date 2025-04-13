@@ -17,6 +17,6 @@ sudo docker pull c0deinblack/yt-dlp-at:v2.2
 
 ## Usage
 
-The functionality is the same as [![yt2music](https://github.com/C0deInBlack/yt2music)](https://github.com/C0deInBlack/yt2music). You can read the full documentation there.
+The functionality is the same as [![yt2music](https://github.com/C0deInBlack/yt2music)](https://github.com/C0deInBlack/yt2music). The GUI handles the inputs to run properly the docker command, that's why the docker images is needed. You can read the full documentation there.
 
 ![gui](https://github.com/C0deInBlack/yt2music_GUI/blob/main/images/gui.cleaned.png)
